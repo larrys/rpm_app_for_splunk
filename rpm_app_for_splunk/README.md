@@ -61,4 +61,4 @@ There is an *Integration Overview* dashboard listed under *Dashboards* that allo
 
 ## Support
 
-Support for Splunk App for RPM is run through [GitHub Issues](https://github.com/splunk/splunk_app_for_rpm/issues). Please open a new issue for any support issues or for feature requests. You may also open a Pull Request if you'd like to contribute additional dashboards, eventtypes for webhooks, or enhancements you may have.
+Support for Splunk App for RPM is run through [GitHub Issues](https://github.com/splunk/rpm_app_for_splunk/issues). Please open a new issue for any support issues or for feature requests. You may also open a Pull Request if you'd like to contribute additional dashboards, eventtypes for webhooks, or enhancements you may have.

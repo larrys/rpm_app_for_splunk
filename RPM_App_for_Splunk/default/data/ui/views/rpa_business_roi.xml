@@ -140,7 +140,7 @@
         <option name="drilldown">cell</option>
         <option name="refresh.display">progressbar</option>
         <drilldown>
-          <link target="_blank">/app/lookup_editor/lookup_edit?owner=nobody&amp;namespace=Splunk_App_for_RPM&amp;lookup=roi.csv&amp;type=csv&amp;transform=</link>
+          <link target="_blank">/app/lookup_editor/lookup_edit?owner=nobody&amp;namespace=RPM_App_for_Splunk&amp;lookup=roi.csv&amp;type=csv&amp;transform=</link>
         </drilldown>
       </table>
     </panel>

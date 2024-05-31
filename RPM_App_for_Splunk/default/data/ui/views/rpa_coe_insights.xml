@@ -152,7 +152,7 @@
         <option name="charting.legend.placement">top</option>
         <option name="refresh.display">none</option>
         <drilldown>
-          <link target="_blank">/app/Splunk_App_for_RPM/rpa_drilldown?robotName=$click.name2$&amp;earliest=$earliest$&amp;latest=$latest$</link>
+          <link target="_blank">/app/RPM_App_for_Splunk/rpa_drilldown?robotName=$click.name2$&amp;earliest=$earliest$&amp;latest=$latest$</link>
         </drilldown>
       </chart>
     </panel>
@@ -267,7 +267,7 @@
         <option name="count">4</option>
         <option name="drilldown">cell</option>
         <drilldown>
-          <link target="_blank">/app/Splunk_App_for_RPM/rpa_drilldown?robotName=$click.value$</link>
+          <link target="_blank">/app/RPM_App_for_Splunk/rpa_drilldown?robotName=$click.value$</link>
         </drilldown>
       </table>
     </panel>
